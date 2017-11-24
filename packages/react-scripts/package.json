@@ -1,5 +1,5 @@
 {
-  "name": "react-scripts",
+  "name": "@kontrafiktion/react-scripts",
   "version": "1.0.17",
   "description": "Configuration and scripts for Create React App.",
   "repository": "kontrafiktion/create-react-app",
